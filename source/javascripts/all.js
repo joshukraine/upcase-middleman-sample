@@ -1,5 +1,6 @@
 //= require jquery
 //= require moment
+//= require faq
 
 $(function() {
   var today = moment().format("dddd MMM Do, YYYY");
