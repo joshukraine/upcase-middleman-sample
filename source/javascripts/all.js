@@ -1,6 +1,6 @@
 //= require jquery
 //= require moment
-//= require faq
+//= require accordion
 
 $(function() {
   var today = moment().format("dddd MMM Do, YYYY");
